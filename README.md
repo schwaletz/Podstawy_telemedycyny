@@ -6,6 +6,6 @@ Plik mitbih_train.7z. należy rozpakować, znajduję się w nim plik csv wykorzy
 
 
 Autorami projektu są: 
-Jowita Lalewicz
-Marta Mąka
-Michał Szwalec
+Jowita Lalewicz,
+Marta Mąka,
+Michał Szwalec.
